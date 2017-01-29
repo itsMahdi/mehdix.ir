@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://mehdix.ir/sitemap.xml
